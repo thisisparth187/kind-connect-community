@@ -36,8 +36,8 @@ const HeroSection = () => {
         <div className="mt-16 flow-root sm:mt-24">
           <div className="relative rounded-xl bg-gray-900/5 p-2 ring-1 ring-inset ring-gray-900/10 lg:-m-4 lg:rounded-2xl lg:p-4">
             <img
-              src="https://www.pexels.com/photo/love-people-africa-travel-6646849/"
-              alt="Community helping each other"
+              src="/lovable-uploads/859f28ed-e6b6-4827-843e-a8330d0e5b89.png"
+              alt="Volunteers standing in front of a van"
               className="rounded-md shadow-2xl ring-1 ring-gray-900/10 w-full h-[300px] sm:h-[400px] md:h-[500px] object-cover"
             />
           </div>
